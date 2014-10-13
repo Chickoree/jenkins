@@ -15,6 +15,7 @@
 /fingerprints/
 /shelvedProjects/
 /updates/
+/war
 
 # Tools that Hudson manages
 /tools/
