@@ -6,6 +6,7 @@
 *.bak
 *.jar
 *.json
+*secret*
 
 # Generated Hudson state
 /.owner
@@ -28,3 +29,5 @@ lastStable
 lastSuccessful
 nextBuildNumber
 modules/
+jobs/
+monitoring/
