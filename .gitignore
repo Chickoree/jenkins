@@ -1,3 +1,5 @@
+*.DS_Store*
+
 # The following ignores...
 # Miscellaneous Hudson litter
 *.log
